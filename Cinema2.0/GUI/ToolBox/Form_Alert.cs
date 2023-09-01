@@ -12,14 +12,21 @@ namespace Cinema2._0.GUI.ToolBox
 {
     public partial class Form_Alert : Form
     {
-        public Form_Alert()
+        string text = null;
+        public Form_Alert(string text)
         {
             InitializeComponent();
+            this.text = text;
         }
 
         private void btnClosePannel_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Form_Alert_Load(object sender, EventArgs e)
+        {
+            txt.Text = text;
         }
     }
 }

@@ -31,7 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form_Alert));
             this.btnClosePannel = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.txt = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.btnClosePannel)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -58,16 +58,16 @@
             this.pictureBox1.TabIndex = 7;
             this.pictureBox1.TabStop = false;
             // 
-            // label1
+            // txt
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Montserrat", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(119, 60);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(332, 34);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "Thao tác thành công!";
+            this.txt.AutoSize = true;
+            this.txt.Font = new System.Drawing.Font("Montserrat", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.txt.Location = new System.Drawing.Point(119, 60);
+            this.txt.Name = "txt";
+            this.txt.Size = new System.Drawing.Size(332, 34);
+            this.txt.TabIndex = 6;
+            this.txt.Text = "Thao tác thành công!";
             // 
             // Form_Alert
             // 
@@ -77,11 +77,13 @@
             this.ClientSize = new System.Drawing.Size(500, 150);
             this.Controls.Add(this.btnClosePannel);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.txt);
             this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form_Alert";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form_Alert";
+            this.Load += new System.EventHandler(this.Form_Alert_Load);
             ((System.ComponentModel.ISupportInitialize)(this.btnClosePannel)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -93,6 +95,6 @@
 
         private System.Windows.Forms.PictureBox btnClosePannel;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label txt;
     }
 }

@@ -465,7 +465,7 @@ namespace Cinema2._0.GUI
 
         private void btnConfirm_Click(object sender, EventArgs e)
         {
-            if (!String.IsNullOrEmpty(txtThua.Text) && txtThua.Text != "Không đủ tiền")
+            if (veDangChon.Count >0 &&!String.IsNullOrEmpty(txtThua.Text) && txtThua.Text != "Không đủ tiền")
             {
                 btnThanhCong.Enabled = true;
 
@@ -539,6 +539,9 @@ namespace Cinema2._0.GUI
             flpVe.Controls.Clear();
             veDangChon.Clear();
             flpSeat.Controls.Clear();
+            Form_Alert al = new Form_Alert("Hủy hóa đơn thành công!");
+            al.ShowDialog();
+
         }
     }
 }

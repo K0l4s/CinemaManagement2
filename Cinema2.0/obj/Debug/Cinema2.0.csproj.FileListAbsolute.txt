@@ -22,3 +22,27 @@ F:\LTW\Cinema2.0\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_VeXemPhim.resources
 F:\LTW\Cinema2.0\Cinema2.0\obj\Debug\Cinema2._0.GUI.ToolBox.Form_Alert.resources
 F:\LTW\Cinema2.0\Cinema2.0\obj\Debug\Cinema2._0.GUI.ToolBox.Form_MessageBox.resources
 F:\LTW\Cinema2.0\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_Seat.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\Cinema2.0.exe.config
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\Cinema2.0.exe
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\Cinema2.0.pdb
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\EntityFramework.dll
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\EntityFramework.SqlServer.dll
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\EntityFramework.xml
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\bin\Debug\EntityFramework.SqlServer.xml
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.csproj.AssemblyReference.cache
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.csproj.SuggestedBindingRedirects.cache
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\ProjectCinema.NEW_GUI.Form_Main.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.ToolBox.Form_Alert.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.ToolBox.Form_MessageBox.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_MuaVe.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_Phim.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_QLPhim.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_Seat.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_VeXemPhim.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.GUI.US_XuatHoaDon.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2._0.Properties.Resources.resources
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.csproj.GenerateResource.cache
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.csproj.CoreCompileInputs.cache
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.csproj.CopyComplete
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.exe
+F:\CNTT K21\Năm 2\HOC KY II\Lap trinh win\Cinema2.0\CinemaManagement2\Cinema2.0\obj\Debug\Cinema2.0.pdb
